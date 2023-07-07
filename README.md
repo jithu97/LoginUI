@@ -1,6 +1,6 @@
 # How to run this project.
 
 <ol>
-npm install
-npx parcel index.html  
+<li> npm install </li>
+<li> npx parcel index.html  </li>
 </ol>
