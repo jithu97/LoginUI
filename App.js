@@ -12,7 +12,7 @@ const AppLayout = () => {
       username: username,
       password: password,
     };
-
+    //Fetch api
     fetch("http://localhost:8080/credentials", {
       method: "post",
       headers: {
